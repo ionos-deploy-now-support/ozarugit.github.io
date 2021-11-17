@@ -1,6 +1,7 @@
 # theme: jekyll-theme-leap-day
 remote_theme: pmarsceill/just-the-docs
-title: Overall website title
-description: So, it is on all pages?
+title: GrampGit Site
+description: Test site by GrampGit
+logo: "/assets/images/BlackSwan.png"
 github:
   is_project_page: false
