@@ -1,6 +1,8 @@
+---
 layout: page
 title: “3rd go”
 permalink: /3file.html
+---
 
 <h1>See if there's any content!</h1>
 <p>Testing links:
