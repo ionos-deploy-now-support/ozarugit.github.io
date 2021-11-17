@@ -1,8 +1,9 @@
+---
 title: Page 4 title?
 description: Page 4 desc?
 github:
   is_project_page: false
-
+---
 
 Nothing to see here
 Except file4 - if named .md that works at last.
@@ -12,4 +13,4 @@ Except file4 - if named .md that works at last.
 **No formatting?**
 _Not even this way?_
 
-[Link](pages.domain.com) also not working?
+[Link2](file2) [Link3](file3) [Link3rev](3file) working?
