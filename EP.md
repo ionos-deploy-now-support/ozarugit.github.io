@@ -10,7 +10,7 @@ title: EP \[title in menu etc.]
   .subtitle {
   font:red italic 12px/100% Arial, Helvetica, sans-serif;
   }
-</style
+</style>
 
 # About EP
 Text
