@@ -7,14 +7,14 @@ title: “EPtitle”
 # EPh1
 Text
 
-![ROM](/pix/150r.jpg){:.pic}
-## ROM
-### MOEP
-### bAJ
-#### 8 
-#### 02 
-#### 201 
-#### [ROM](rom)|
+[![Cover](/pix/150r.jpg){:.pic}](rom)
+## Reflections in an Oval Mirror
+### Memories of East Prussia, 1923-45
+### by Anneli Jones
+#### Published 8 May 2008
+#### ISBN 978-0-9559219-0-2
+#### 201 pages, Royal Octavo paperback
+#### [more details](rom)
 
 ![SEW](/pix/150b.jpg){:.pic}
 ## SEW
@@ -23,7 +23,7 @@ Text
 #### 8 
 #### 28 
 #### 152 
-#### [SEW](sew)|
+#### [SEW](sew)
 
 ![VOS](/pix/150g.jpg){:.pic}
 ## VOS
