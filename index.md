@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ozaru homepage
+title: Ozaru 大猿 homepage
 #permalink: /xxxx.html/
 ---
 
@@ -8,17 +8,17 @@ title: Ozaru homepage
 
 Not much to see here yet - under construction...
 
-## Tests:
+<!-- ## Tests:
 // just pic = ![Invisible-alt-text](picURL.jpg)
 // # just pic = ![Invisible-alt-text](picURL.jpg)
 //: # just pic = ![Invisible-alt-text](picURL.jpg)
 [//]: # pic with hover-caption = ![Invisible-alt-text](picURL.jpg "Caption")
-<!-- #linked pic = [![Invisible-alt-text](picURL.jpg)](link.html)
+#linked pic = [![Invisible-alt-text](picURL.jpg)](link.html)
 #linked pic with hover-caption = [![Invisible-alt-text](picURL.jpg "Caption")](link.html)
 #plain linked text= [text](link.html) -->
 
-### [![Books image](/pix/150b.jpg "Click here for books 📚")](books)
-### [![Music image](/pix/150g.jpg "Click here for music 🎵")](music)
+### [![Books image](/pix/150b.jpg "Click here for books 📚") 本について](books)
+### [![Music image](/pix/150g.jpg "Click here for music 🎵") 音楽について](music)
 
 ---
 All rights reserved
