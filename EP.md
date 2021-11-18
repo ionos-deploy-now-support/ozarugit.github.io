@@ -1,7 +1,7 @@
 ---
 layout: page
-title: “EP”
-# permalink: /3file.html
+title: “EPtitle”
+# permalink: /EP.html
 ---
 
 <style>
@@ -19,70 +19,43 @@ title: “EP”
 }
 </style>
 
-# EP
+# EPh1
 Text
 
-![SEW](/pix/150b.jpg){: .float-left}
-# ROM .float-left space
-## MOEP
-## bAJ
-### 8 
-### 02 
-### 201 
-### [ROM](rom)|
-
-![SEW](/pix/150b.jpg){:.float-left}
-# ROM .float-left no space
-## MOEP
-## bAJ
-### 8 
-### 02 
-### 201 
-### [ROM](rom)|
-
-![SEW](/pix/150b.jpg){: .pic}
-# ROM .pic space
-## MOEP
-## bAJ
-### 8 
-### 02 
-### 201 
-### [ROM](rom)|
+![ROM](/pix/150r.jpg){:.pic}
+## ROM
+### MOEP
+### bAJ
+#### 8 
+#### 02 
+#### 201 
+#### [ROM](rom)|
 
 ![SEW](/pix/150b.jpg){:.pic}
-# ROM .pic no space
-## MOEP
-## bAJ
+## SEW
+### MOEP
+### bMY
 ### 8 
-### 02 
-### 201 
-### [ROM](rom)|
-
-<img src="/pix/150b.jpg" alt="img" class=pic>
-# ROM html
-## MOEP
-## bAJ
-### 8 
-### 02 
-### 201 
-### [ROM](rom)|
-
-[SEW](sew)
-
-[SEW](sew)
-
-[SEW](sew)
+### 28 
+### 152 
+### [SEW](sew)|
 
 ![VOS](/pix/150g.jpg){: .float-right}
-[VOS](vos)
+## VOS
+### KaOP
+### bAJ
+### 29
+### 02 
+### ??
+### [VOS](vos)
 
-![SAW](/pix/saw.png) [SAW](saw)
+![SAW](/pix/150r.png) [SAW](saw)
+## SAW
+### EaOP
+### bMY
+### 29
+### 17 
+### ??
+### [SAW](saw)
 
-![CD](/pix/cd.png) [CD](cd)
-
-<!-- p>Testing links:
-  <a href="3file.html">3file</a>
-  <a href="file3.html">file3.html</a>
-  <a href="file4.html">file4.html</a>
-  <a href="file4.md">file4.md</a>
-</p -->
+![CD](/pix/150b.png) [CD](cd)
