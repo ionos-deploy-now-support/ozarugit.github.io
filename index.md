@@ -9,33 +9,14 @@ title: Ozaru homepage
 Not much to see here yet - under construction...
 
 ## Tests:
-#just pic = ![Alt-text](picURL.jpg)
-#pic with caption = ![Alt-text](picURL.jpg "Caption")
-#linked pic = [![Alt-text](picURL.jpg)](link.html)
-#linked pic with caption = [![Alt-text](picURL.jpg "Caption")](link.html)
+#just pic = ![Invisible-alt-text](picURL.jpg)
+#pic with hover-caption = ![Invisible-alt-text](picURL.jpg "Caption")
+#linked pic = [![Invisible-alt-text](picURL.jpg)](link.html)
+#linked pic with hover-caption = [![Invisible-alt-text](picURL.jpg "Caption")](link.html)
+#plain linked text= [text](link.html)
 
-#linked text= [text](link.html)
-
-### ![Books 📚](/pix/150r.jpg)"Books"(books2x)
-### [![Books 📚](/pix/150b.jpg)"Books"](books2.html)
-### [![Music 🎵](/pix/150g.jpg)"Music"](music2)
+### [![Books image](/pix/150b.jpg "Click here for books 📚")](books)
+### [![Music image](/pix/150g.jpg "Click here for music 🎵")](music)
 
 ---
-
-just pic = ![Alt-text](/pix/150r.jpg)
-pic with caption = ![Alt-text](/pix/150b.jpg "Caption")
-linked pic = [![Alt-text](/pix/150g.jpg)](link.html)
-linked pic with caption = [![Alt-text](/pix/150r.jpg "Caption")](link.html)
-
-Column | Column | Column
-:----- | :----: | -----:
-Left   | Center | Right
-align  | align  | align
-
-:----- | :----: | -----:
-Left   | Center | Right
-align  | align  | align
-
-:- | :--: | ---:
-Left   | Center | Right
-align  | align  | align
+All rights reserved
