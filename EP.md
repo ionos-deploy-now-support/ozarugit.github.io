@@ -19,32 +19,38 @@ title: “EP”
 }
 </style>
 
-<style>
-mark{
-    color:red;
-}
-</style>
-
-<mark>what is DataBase</mark>
-
-
 # EP
 Text
 
-| head1        | head two          |
-|:-------------|:------------------|
-| ![ROM](/pix/150r.jpg) | # ROM
-| | ## MOEP
-| | ## bAJ
-| | ### 8 
-| | ### 02 
-| | ### 201 
-| | ### [ROM](rom)|
+![SEW](/pix/150b.jpg){: .float-left}
+# ROM .float-left space
+## MOEP
+## bAJ
+### 8 
+### 02 
+### 201 
+### [ROM](rom)|
 
-class=pic / .float-left
+![SEW](/pix/150b.jpg){:.float-left}
+# ROM .float-left no space
+## MOEP
+## bAJ
+### 8 
+### 02 
+### 201 
+### [ROM](rom)|
 
-![SEW](/pix/150b.jpg){: class=pic}
-# ROM
+![SEW](/pix/150b.jpg){: .pic}
+# ROM .pic space
+## MOEP
+## bAJ
+### 8 
+### 02 
+### 201 
+### [ROM](rom)|
+
+![SEW](/pix/150b.jpg){:.pic}
+# ROM .pic no space
 ## MOEP
 ## bAJ
 ### 8 
@@ -53,15 +59,13 @@ class=pic / .float-left
 ### [ROM](rom)|
 
 <img src="/pix/150b.jpg" alt="img" class=pic>
-# ROM
+# ROM html
 ## MOEP
 ## bAJ
 ### 8 
 ### 02 
 ### 201 
 ### [ROM](rom)|
-
-
 
 [SEW](sew)
 
