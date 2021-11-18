@@ -1,25 +1,25 @@
 ---
 layout: page
-title: “ROMtitle”
-# permalink: /xxxx.html
+title: “ROMtitle” #shown in menu, bookmarks, browser tab, probably Google - not displayed
+# permalink: /xxxx.html # if (bizarrely) wanted a.md to be saved as b.html
 ---
 
-# ROMh1
-## Reflections in an Oval Mirror
-### Memories of East Prussia, 1923-45
-### by Anneli Jones
+# Reflections in an Oval Mirror
+## Memories of East Prussia, 1923-45
+## by Anneli Jones
 
 ![Cover](/pix/150r.jpg){:.pic}
 
 ROM desc bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
 
-:F|:ROp
+-:|:- #title row, alignment
+Format|ROpb
 P|8
 I|9
 L|201
 A|All
 
-F|K
+Format|K
 P|8
 I|N/A
 L|95
@@ -27,6 +27,13 @@ A|Am
 
 More text
 
-Links
+<hr>
 
-Bot
+Links
+1. [aa](xxx) - yyy
+2. [aa](xxx) - yyy
+3. [aa](xxx) - yyy
+4. [aa](xxx) - yyy
+5. [aa](xxx) - yyy
+
+All rights reserved
