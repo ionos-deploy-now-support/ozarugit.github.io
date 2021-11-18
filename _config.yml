@@ -3,5 +3,9 @@ remote_theme: pmarsceill/just-the-docs
 title: GrampGit Site
 description: Test site by GrampGit
 logo: "/assets/images/BlackSwan.png"
+# Aux links for the upper right navigation
+aux_links:
+  "OB homep":
+    - "/index"
 github:
   is_project_page: false
