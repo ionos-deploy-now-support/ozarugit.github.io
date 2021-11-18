@@ -4,21 +4,6 @@ title: “EPtitle”
 # permalink: /EP.html
 ---
 
-<style>
- 
-@media (max-width: 768px) {
-  .pic {
-    float: none;
-  }
-}
-
-@media (min-width: 769px) {
-  .pic {
-    float: left;
-  }
-}
-</style>
-
 # EPh1
 Text
 
@@ -35,27 +20,36 @@ Text
 ## SEW
 ### MOEP
 ### bMY
-### 8 
-### 28 
-### 152 
-### [SEW](sew)|
+#### 8 
+#### 28 
+#### 152 
+#### [SEW](sew)|
 
-![VOS](/pix/150g.jpg){: .float-right}
+![VOS](/pix/150g.jpg){:.pic}
 ## VOS
 ### KaOP
 ### bAJ
-### 29
-### 02 
-### ??
-### [VOS](vos)
+#### 29
+#### 02 
+#### ??
+#### [VOS](vos)
 
-![SAW](/pix/150r.png) [SAW](saw)
+![SAW](/pix/150r.png){:.pic}
 ## SAW
 ### EaOP
 ### bMY
-### 29
-### 17 
-### ??
-### [SAW](saw)
+#### 29
+#### 17 
+#### ??
+#### [SAW](saw)
 
-![CD](/pix/150b.png) [CD](cd)
+![CD](/pix/150b.png){:.pic}
+## CD
+### MoEP
+### bAJ
+#### xx
+#### 35 
+#### ??
+#### [CD](cd)
+
+Bot
