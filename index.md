@@ -9,5 +9,6 @@ title: Ozaru homepage
 Not much to see here yet - under construction...
 
 ## Tests:
+### ![Books 📚](books1x)"Books"(books2x)
 ### [![Books 📚](books1)"Books"](books2)
 ### [![Music 🎵](music1)"Music"](music2)
