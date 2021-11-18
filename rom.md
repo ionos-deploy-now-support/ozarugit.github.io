@@ -10,7 +10,9 @@ title: “ROMtitle”
 ### by Anneli Jones
 
 ![Cover](/pix/150r.jpg){:.pic}
+
 ROM desc bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla 
+
 :F|:ROp
 P|8
 I|9
