@@ -1,0 +1,18 @@
+// Print-only styles - example
+@media print {
+  .side-bar, .page-header { display: none; }
+  .main-content { max-width: auto; margin: 1em;}
+}
+
+@media (max-width: 768px) {
+  .pic {
+    float: none;
+  }
+}
+
+@media (min-width: 769px) {
+  .pic {
+    float: left;
+    padding: 10px 10px 10px 10px;
+  }
+}
