@@ -6,7 +6,7 @@ title: Ozaru 大猿 homepage
 
 # Welcome to the world of Ozaru
 
-Not much to see here yet - under construction...
+Not much to see here yet - still under construction, still failing some things...
 
 <!-- ## Tests:
 // just pic = ![Invisible-alt-text](picURL.jpg)
