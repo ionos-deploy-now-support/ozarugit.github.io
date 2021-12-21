@@ -20,9 +20,15 @@ jobs:
         uses: actions/checkout@v2
         with:
           submodules: 'recursive'
-      - name: Custom
+      - name: Setup project
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
-        run: jekyll build
+        uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+          ruby-version: 2.7
+      - name: Build project
+        if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
+        run: bundle exec jekyll build
       - name: Deploy build
         if: ${{ steps.project.outputs.deployment-enabled == 'true' }}
         uses: ionos-deploy-now/deploy-to-ionos-action@v1
@@ -35,4 +41,3 @@ jobs:
           remote-host: ${{ steps.project.outputs.remote-host }}
           service-host: api-eu.ionos.space
           storage-quota: ${{ steps.project.outputs.storage-quota }}
-
