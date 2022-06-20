@@ -1,4 +1,8 @@
-@import "{{ site.theme }}";
+---
+---
+#@import "{{ site.theme }}";
+#above version gave error "Scss encountered an error while converting 'assets/css/just-the-docs-dark.scss'" so trying variants...
+@import "just-the-docs";
 
 // Print-only styles - example
 @media print {
