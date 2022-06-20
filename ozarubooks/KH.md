@@ -1,6 +1,6 @@
 ---
-layout: page
-title: “KH...”
+layout: bookspage
+title: KH...
 ---
 
 # KH
