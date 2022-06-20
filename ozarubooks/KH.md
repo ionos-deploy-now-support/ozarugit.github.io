@@ -15,4 +15,4 @@ title: KH...
 
 [BB🚴](bb)
 
-Also... ![Swanpic](assets/images/BlackSwan.png)
+Also... ![Swanpic](/assets/images/BlackSwan.png)
