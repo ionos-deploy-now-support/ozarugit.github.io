@@ -2,4 +2,4 @@
 layout: default #not page this time, just to see
 ---
 
-Test content. no MD extension here.
+Test content.
