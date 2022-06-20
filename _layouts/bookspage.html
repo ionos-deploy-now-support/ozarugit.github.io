@@ -1,0 +1,15 @@
+---
+layout: default #optional, to inherit overall template for whole site - wanted?
+aux_links:
+  "Books subsite":
+    - "https://github.com/ozarugit/ozarugit.github.io/"
+footer_content: Copyright &copy; Ben Jones. All rights reserved.
+---
+
+<div class="hero">
+  <!-- Testing a コメント comment inside _layouts/bookpage -->
+<h1 class="hero__header dark-orange">{{ site.title }}</h1>
+<h2 class="hero__header red">{{ page.title }}</h1>
+</div>
+{{ content }}
+<!-- Testing a second コメント comment inside _layouts/bookpage -->
