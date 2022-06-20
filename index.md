@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Ozaru 大猿 homepage
 #permalink: /xxxx.html/
 ---
@@ -17,8 +17,8 @@ Not much to see here yet - still under construction, still failing some things..
 #linked pic with hover-caption = [![Invisible-alt-text](picURL.jpg "Caption")](link.html)
 #plain linked text= [text](link.html) -->
 
-### [![Books image](/pix/150b.jpg "Click here for books 📚") 本について](books)
-### [![Music image](/pix/150g.jpg "Click here for music 🎵") 音楽について](music)
+### [![Books image](/pix/150b.jpg "Click here for books 📚") 本について](ozarubooks/books)
+### [![Music image](/pix/150g.jpg "Click here for music 🎵") 音楽について](impromptu/impromptu)
 
 ---
 All rights reserved
