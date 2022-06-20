@@ -1,12 +1,12 @@
-# theme: jekyll-theme-leap-day - tried it first, not now used
 encoding: UTF-8
+# theme: jekyll-theme-leap-day - now replaced by JTD
 remote_theme: just-the-docs/just-the-docs
-title: OzaruGit Site
-description: Test site by OzaruGit
-logo: "/assets/images/BlackSwan.png" #only used if no title? and/or only used in side-bar navigation?
+title: Ozaru.Net
+description: Ōzaru test site
+logo: "/assets/images/Ozaru-logo-nobooks.png" #takes precedence over 'Title', in side-bar navigation
 # Aux links for the upper right navigation
 aux_links:
-  "OB homep":
+  "Home":
     - "/index"
 github:
   is_project_page: false
