@@ -1,9 +1,9 @@
-# theme: jekyll-theme-leap-day
+# theme: jekyll-theme-leap-day - tried it first, not now used
 encoding: UTF-8
 remote_theme: just-the-docs/just-the-docs
-title: GrampGit Site
-description: Test site by GrampGit
-logo: "/assets/images/BlackSwan.png"
+title: OzaruGit Site
+description: Test site by OzaruGit
+logo: "/assets/images/BlackSwan.png" #only used if no title? and/or only used in side-bar navigation?
 # Aux links for the upper right navigation
 aux_links:
   "OB homep":
