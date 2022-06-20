@@ -1,3 +1,5 @@
+@import "{{ site.theme }}";
+
 // Print-only styles - example
 @media print {
   .side-bar, .page-header { display: none; }
