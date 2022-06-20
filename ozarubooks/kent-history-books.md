@@ -3,9 +3,6 @@ layout: bookspage
 title: Books about East Kent history
 ---
 <head>
-<meta name="author" content="Ben Jones">
-<meta name="description" content="Ozaru Books - Books about East Kent, East Asia, East Prussia and more">
-<meta name="keywords" content="Kentish history, Kent history, Kent books, history books, Margate history, Thanet history, Margate books, Turner Contemporary, books on Margate, books on Thanet, books, Thanet, Margate, Kent, cycling, cycle touring, CTC, Victorian, Victoriana, Victorian cyclists, cycling history, cycling books, Victorian history, Victorian history books">
 
 <!-- ======================================================================================================= -->
 <!-- ==== Meta Tags with OpenGraph Data Used for sites like Facebook, Linkedin, Twitter, Google+ & more ==== -->
@@ -37,10 +34,11 @@ TESTING:
 <meta http-equiv="content-type" content="text/html;UTF-8">
 <meta http-equiv="content-language" content="en">
 <meta http-equiv="content-security-policy" content="upgrade-insecure-requests"> <!-- Upgrade insecure requests. See: https://developers.google.com/web/fundamentals/security/prevent-mixed-content/fixing-mixed-content -->
-<meta name="description" content="____"> <!-- Website description --> 
-<meta name="author" content="____"> <!-- Name of the content creator / author. -->
-<link rel="author" href="https://plus.google.com/____"/> <!-- Author's Google+ page. -->
-<link rel="publisher" href="https://plus.google.com/____"/> <!-- Content owner's Google+ page. -->
+<meta name="author" content="Ben Jones">
+<meta name="description" content="Ozaru Books - Books about East Kent, East Asia, East Prussia and more">
+<meta name="keywords" content="Kentish history, Kent history, Kent books, history books, Margate history, Thanet history, Margate books, Turner Contemporary, books on Margate, books on Thanet, books, Thanet, Margate, Kent, cycling, cycle touring, CTC, Victorian, Victoriana, Victorian cyclists, cycling history, cycling books, Victorian history, Victorian history books">
+<!-- link rel="author" href="https://plus.google.com/____"/> <!-- Author's Google+ page. now obsolete -->
+<!-- link rel="publisher" href="https://plus.google.com/____"/> <!-- Content owner's Google+ page. now obsolete -->
 <meta name="copyright" content="____"> <!-- Copyright holder -->
 
 <meta http-equiv="cache-control" content="cache"> <!-- See: http://www.metatags.org/meta_http_equiv_cache_control -->
