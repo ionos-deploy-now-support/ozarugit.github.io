@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: bookspage
 title: EP \[title in menu etc.]
-# permalink: /EP.html
+# permalink: /EP.html - not needed so commented out
 ---
 <style>
   .title {
@@ -66,7 +66,7 @@ ISBN 978-0-9559219-0-2{: .ISBN}
 #### ??
 #### [VOS](vos)
 
-![SAW](/pix/150r.png){:.pic}
+![SAW](/pix/150r.jpg){:.pic}
 ## SAW
 ### EaOP
 ### bMY
@@ -75,7 +75,7 @@ ISBN 978-0-9559219-0-2{: .ISBN}
 #### ??
 #### [SAW](saw)
 
-![CD](/pix/150b.png){:.pic}
+![CD](/pix/150b.jpg){:.pic}
 ## CD
 ### MoEP
 ### bAJ
