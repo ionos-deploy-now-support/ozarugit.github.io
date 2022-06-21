@@ -1,6 +1,8 @@
 ---
 layout: bookspage
 title: Books about East Kent history
+parent: Books
+has-children: true
 ---
 <head>
 
