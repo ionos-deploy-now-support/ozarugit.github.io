@@ -1,6 +1,7 @@
 ---
 layout: bookspage
-title: EP \[title in menu etc.]
+title: Books about East Prussia
+parent: Books
 # permalink: /EP.html - not needed so commented out
 ---
 <style>
@@ -13,8 +14,8 @@ title: EP \[title in menu etc.]
   }
 </style>
 
-# About EP
-Text
+# Books about East Prussia
+Under construction
   
 [![Cover](/pix/150r.jpg){:.pic}](rom)
 ## Reflections in an Oval Mirror
@@ -83,5 +84,3 @@ ISBN 978-0-9559219-0-2{: .ISBN}
 #### 35 
 #### ??
 #### [CD](cd)
-
-Bot
