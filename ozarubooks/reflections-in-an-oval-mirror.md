@@ -1,7 +1,7 @@
 ---
 layout: page
-title: “ROMtitle” #shown in menu, bookmarks, browser tab, probably Google - not displayed
-# permalink: /xxxx.html # if (bizarrely) wanted a.md to be saved as b.html
+title: Reflections in an Oval Mirror
+parent: Books about East Prussia
 ---
 
 # Reflections in an Oval Mirror
